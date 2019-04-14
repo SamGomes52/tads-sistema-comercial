@@ -1,0 +1,1 @@
+ALTER TABLE public.categoria DROP COLUMN categoria_id RESTRICT;
